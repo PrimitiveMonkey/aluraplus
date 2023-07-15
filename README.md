@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto ALURA PLUS.
 
-<img src="https://github.com/PrimitiveMonkey/aluraplus/issues/1#issue-1806226895">
+![IMAGEM ALURAPLUS](https://github.com/PrimitiveMonkey/aluraplus/assets/139599863/89730d28-28b4-4604-bc5f-5a3c31f0ad46)
 
 ## Ferramentas utilizadas:
 
