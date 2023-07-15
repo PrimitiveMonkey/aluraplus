@@ -1,6 +1,15 @@
-<h1 align="center"> ALURA PLUS </h1>
-(https://github.com/PrimitiveMonkey/aluraplus/assets/139599863/89730d28-28b4-4604-bc5f-5a3c31f0ad46)
-## ✔️ Técnicas e tecnologias utilizadas
+# Portfólio Olá, Bem vindo ao meu projeto ALURA PLUS.
 
-- ``HTML``
-- ``CSS``
+
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+## Feito por: 
+
+### Augusto Cesar Zambeli Teixeira
+
+### Linkedin: https://www.linkedin.com/in/augustozambeli
